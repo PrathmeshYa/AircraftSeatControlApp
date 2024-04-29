@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="BottomBar.qml">bottomBar/BottomBar.qml</file>
+        <file alias="SeatControl.qml">mainArea/SeatControl.qml</file>
+        <file alias="MainArea.qml">mainArea/MainArea.qml</file>
+        <file alias="StatusBar.qml">mainArea/StatusBar.qml</file>
+        <file alias="AdjFootrest.qml">mainArea/AdjFootrest.qml</file>
+        <file alias="SliderFunctionality.qml">mainArea/SliderFunctionality.qml</file>
+        <file alias="AdjBackrest.qml">mainArea/AdjBackrest.qml</file>
+        <file alias="AdjHeadrest.qml">mainArea/AdjHeadrest.qml</file>
+        <file alias="AdjHardness.qml">mainArea/AdjHardness.qml</file>
+        <file alias="main.qml">mainArea/main.qml</file>
+        <file alias="MySeat.qml">mainArea/MySeat.qml</file>
+    </qresource>
+</RCC>

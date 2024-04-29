@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/bgInage.jpg</file>
+        <file>Images/Headrest.png</file>
+        <file>Images/previous.png</file>
+        <file>Images/next.png</file>
+        <file>Images/right-arrow.png</file>
+        <file>Images/baskrest.png</file>
+        <file>Images/footrest.png</file>
+        <file>Images/Headrest_1.png</file>
+        <file>Images/Hardness.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
